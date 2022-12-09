@@ -1,3 +1,12 @@
+## [1.0.8](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.7...v1.0.8) (2022-12-09)
+
+
+### Features
+
+* 解决dev的publicPath问题 ([4fd1632](https://github.com/confuciusthinker/my-webpack-common/commit/4fd163215deaee72ecff14fa6a06dc4d2666b4f3))
+
+
+
 ## [1.0.7](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.6...v1.0.7) (2022-12-09)
 
 
