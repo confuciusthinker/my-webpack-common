@@ -1,3 +1,13 @@
+## [1.0.7](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.6...v1.0.7) (2022-12-09)
+
+
+### Features
+
+* 解决css-loader以及postcss-loader报错问题 ([7eb0ac0](https://github.com/confuciusthinker/my-webpack-common/commit/7eb0ac06d95487868626c4566441f33f5af5049f))
+* 解决style-loader不存在问题以及publicPath配置 ([d7e1b92](https://github.com/confuciusthinker/my-webpack-common/commit/d7e1b92c8ccc08a8a0ef7e3d5783281e4cf242d3))
+
+
+
 ## [1.0.6](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.5...v1.0.6) (2022-12-09)
 
 
