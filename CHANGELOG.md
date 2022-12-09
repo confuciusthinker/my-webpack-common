@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.4...v1.0.5) (2022-12-09)
+
+
+### Features
+
+* 解决webpack-merge方法报错问题 ([bd8a652](https://github.com/confuciusthinker/my-webpack-common/commit/bd8a652ee328b6d282ecda635ef7e31f26fda438))
+
+
+
 ## [1.0.4](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.3...v1.0.4) (2022-12-09)
 
 
