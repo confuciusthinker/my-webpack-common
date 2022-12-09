@@ -1,6 +1,6 @@
 {
   "name": "my-webpack-common",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "webpack5-common",
   "main": "index.js",
   "files": [
