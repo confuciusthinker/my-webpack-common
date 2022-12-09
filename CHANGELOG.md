@@ -1,3 +1,12 @@
+## [1.0.3](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.2...v1.0.3) (2022-12-09)
+
+
+### Features
+
+* 增加readme使用说明 ([b92b13c](https://github.com/confuciusthinker/my-webpack-common/commit/b92b13c66e1acc0a91ceb135b174b9a3f596b7ad))
+
+
+
 ## 1.0.2 (2022-12-09)
 
 
