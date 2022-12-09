@@ -1,3 +1,12 @@
+## [1.0.6](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.5...v1.0.6) (2022-12-09)
+
+
+### Features
+
+* 解决loader报错问题 ([6b591dd](https://github.com/confuciusthinker/my-webpack-common/commit/6b591dd2bf9017b4f7ff428b923d535bdd66c1e0))
+
+
+
 ## [1.0.5](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.4...v1.0.5) (2022-12-09)
 
 
