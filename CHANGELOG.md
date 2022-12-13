@@ -1,3 +1,12 @@
+## [1.0.9](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.8...v1.0.9) (2022-12-13)
+
+
+### Features
+
+* 解决查找babel.config.js配置的问题 ([aba8c0f](https://github.com/confuciusthinker/my-webpack-common/commit/aba8c0f21718562a669d68fe1a31d316354cbcc8))
+
+
+
 ## [1.0.8](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.7...v1.0.8) (2022-12-09)
 
 
