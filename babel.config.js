@@ -33,7 +33,7 @@ module.exports = {
             'import',
             {
                 libraryName: 'my-router-config-common',
-                libraryDirectory: 'lib/components',
+                libraryDirectory: 'lib/component',
             },
             'my-router-config-common',
         ],
