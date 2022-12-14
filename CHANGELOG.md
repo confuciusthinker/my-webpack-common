@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/confuciusthinker/my-webpack-common/compare/v1.1.0...v1.1.1) (2022-12-14)
+
+
+### Features
+
+* 修改router自定义组件的按需引入路径 ([2ed93c7](https://github.com/confuciusthinker/my-webpack-common/commit/2ed93c721bff84cddfe274adf4a1716f485edc7d))
+
+
+
 # [1.1.0](https://github.com/confuciusthinker/my-webpack-common/compare/v1.0.9...v1.1.0) (2022-12-14)
 
 
