@@ -28,6 +28,14 @@ module.exports = {
                 style: true,
             },
             'antd'
-        ] //antd组件按需加载
+        ], //antd组件按需加载
+        [
+            'import',
+            {
+                libraryName: 'my-router-config-common',
+                libraryDirectory: 'lib/components',
+            },
+            'my-router-config-common',
+        ],
     ]
 }
