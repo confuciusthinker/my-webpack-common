@@ -1,3 +1,12 @@
+## [1.1.2](https://github.com/confuciusthinker/my-webpack-common/compare/v1.1.1...v1.1.2) (2022-12-14)
+
+
+### Features
+
+* 增加yarn link调试时react相关包的指定位置 ([8a47f41](https://github.com/confuciusthinker/my-webpack-common/commit/8a47f41b12f1dcc42e2004d4201655def5251ae6))
+
+
+
 ## [1.1.1](https://github.com/confuciusthinker/my-webpack-common/compare/v1.1.0...v1.1.1) (2022-12-14)
 
 
